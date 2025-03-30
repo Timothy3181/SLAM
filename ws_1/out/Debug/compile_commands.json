@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/timothy3181/Desktop/SLAM/ws_1/out/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/main.dir/1.cpp.o -c /Users/timothy3181/Desktop/SLAM/ws_1/1.cpp",
+  "file": "/Users/timothy3181/Desktop/SLAM/ws_1/1.cpp",
+  "output": "CMakeFiles/main.dir/1.cpp.o"
+}
+]
